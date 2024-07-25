@@ -1,0 +1,17 @@
+1001,Sulaiman Al-Balushi,Stable,1
+1002,Aseela Al-Busaidi,Critical,2
+1003,Shams Al-Zadjali,Serious,2
+1004,Nasir Al-Wahibi,Stable,1
+1005,Yahya Al-Sananieh,Critical,1
+1006,Sara Al-Ghilani,Serious,1
+1007,Noor Al-Rawahi,Critical,2
+1008,Majid Al-Sayabi,Serious,1
+1009,Ahmed Al-Lawati,Stable,1
+1010,Iman Al-Jabri,Critical,2
+1011,Yousef Al-Farsi,Serious,1
+1012,Moza Al-Hinai,Critical,1
+1013,Amir Al-Riyami,Stable,1
+1014,Mohsin Al-Hajri,Serious,1
+1015,Manal Al-Hashmi,Serious,2
+1016,Maha Al-Mamari,Stable,2
+1017,Salah Al-Hadidi,Critical,1
